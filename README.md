@@ -1,5 +1,31 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+A pet project by BandsWithLegends
+
+Goals:
+Create a Progressive Web App with React, MaterialUI, and other tools
+Assist players of League of Legends by recommending choices for team composition based on previous picks and other preferences
+Accumulate knowledge about League of Legends heroes and team composition for high level and beginner play
+Make something that looks great and works well!
+
+League Team Comp (working name) helps new, beginning, and intermediate League of Legends players decide the best possible champion during team selection.
+This is a difficult feat for newer players as the current League of Legends roster boasts over 140 unique champions, each with 4 active skills, and a large number of possible item builds.
+Based on lanes, skills, and abilities, LTC will rapidly give players ranked choices for best champions to use with their teammates, and against the enemy's champions.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
